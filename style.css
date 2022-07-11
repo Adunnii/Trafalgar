@@ -569,9 +569,13 @@ line-height: 38px;
     body{
         padding: 20px;
     }
+    .logo{
+        display: block;
+    }
     .p-5{
-        display: flex;
-        margin-left: 20px;
+        margin-left: 240px;
+       display: block;
+       margin-top: -40px;
     }
     .image{
     width: 10rem;
@@ -592,7 +596,7 @@ line-height: 38px;
       }
       .txt7{
        
-    font-size: 5px;
+    font-size: 15px;
     text-align: center;
     margin-top: 36px
       }
@@ -608,6 +612,13 @@ line-height: 38px;
      
       
       }
+      .txt8{
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    color: #000000;
+    }
       .box2{
         margin-left: 30px;
       }
@@ -674,7 +685,7 @@ line-height: 38px;
         font-size: 15px;
         color: rgba(255, 255, 255, 0.9);
         width: 366px;
-        margin-top: 11px;
+        margin-top: 20px;
         position: absolute;
     }
     .third-sec{
@@ -694,7 +705,7 @@ line-height: 38px;
         width: 10rem;
     }
     footer{
-        width: 430px;
+        width: 379px;
         height: 470px;  
         background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
         margin-top: 130px;
@@ -702,6 +713,15 @@ line-height: 38px;
         margin-bottom: -20px;
         padding: 20px;
     
+    }
+    .txt23{
+        position: absolute;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 15px;
+        color: #FFFFFF;
+        margin-top: 35px;
     }
     .list{
         margin-top: 184px;
